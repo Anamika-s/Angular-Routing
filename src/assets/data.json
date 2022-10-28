@@ -1,0 +1,8 @@
+{
+ "students":
+[
+{ "studentID": 1, "studentName": "Steve", "gender": "Male", "age": 35, "course": "MCA", "DOB": "10/12/1982", "grade":0.7500,"rating":7.5123 },  
+{ "studentID": 2, "studentName": "Steve", "gender": "Male", "age": 35, "course": "MCA", "DOB": "10/12/1982", "grade":0.7500,"rating":7.5123 }, 
+{ "studentID": 3, "studentName": "Steve", "gender": "Male", "age": 35, "course": "MCA", "DOB": "10/12/1982", "grade":0.7500,"rating":7.5123 } 
+]
+}
