@@ -5,4 +5,16 @@
 
 <!-- <app-parent> </app-parent> -->
 
-<app-stud> </app-stud>
+<!-- <app-stud> </app-stud> -->
+<app-header> </app-header>
+<nav   class="navbar navbar-expand-sm bg-primary navbar-dark">
+  <div class="container-fluid">
+    <ul class="navbar-nav">
+  <li class="nav-item"> <a class="nav-link"  routerLink="/first" routerLinkActive="active"> First Component </a> </li>
+  <li class="nav-item"> <a class="nav-link"  routerLink="/second"> Second Component </a></li>
+  <li class="nav-item"> <a class="nav-link"  routerLink="/deptlist"> Department List  </a></li>
+  </ul>
+</div>
+</nav>
+<router-outlet> </router-outlet>
+<app-footer> </app-footer>
